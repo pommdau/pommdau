@@ -4,14 +4,14 @@
 
 # [Zenn Works](https://zenn-badge-nikaera.vercel.app/)
 
-<!-- Like のバッジ -->
-<a href="https://zenn.dev/ikeh1024">
-  <img src="https://zenn.badge.nikaera.com/s/ikeh1024/likes?style=plastic" alt="ikeh1024 likes" />
-</a>
-
 <!-- Articles のバッジ -->
 <a href="https://zenn.dev/ikeh1024/articles">
   <img src="https://zenn.badge.nikaera.com/s/ikeh1024/articles?style=plastic" alt="ikeh1024 articles" />
+</a>
+
+<!-- Like のバッジ -->
+<a href="https://zenn.dev/ikeh1024">
+  <img src="https://zenn.badge.nikaera.com/s/ikeh1024/likes?style=plastic" alt="ikeh1024 likes" />
 </a>
 
 <!-- Followers のバッジ -->
