@@ -9,8 +9,10 @@
 ## My Applications
 
 |App|Description|Support|
-|:---:|:---:|:---:|
-|[<img src="https://user-images.githubusercontent.com/29433103/187027253-6c796787-fc19-4b7b-8c75-e5ff1f319df7.png" alt="CotEditor" width="128"/>](https://apps.apple.com/jp/app/macarbon/id1616507141?l=en&mt=12)|Coding image creation tool.|[Link](https://github.com/pommdau/macarbon.github.io/blob/main/SupportPage/SupportPage_En.md)|
+|:---:|:---|:---|
+|[<img src="https://user-images.githubusercontent.com/29433103/187027951-afd817f7-59ca-4344-9149-c02233ae2118.png" alt="CotEditor" width="128"/>](https://apps.apple.com/jp/app/quickimageuploader/id1609831553)|Easily uploading images tool to a hosting service.|[English](https://github.com/pommdau/quick-image-uploader.github.io/blob/main/SupportPage/SupportPage_En.md)<br>[Japanese](https://github.com/pommdau/quick-image-uploader.github.io/blob/main/SupportPage/SupportPage_Ja.md)|
+|[<img src="https://user-images.githubusercontent.com/29433103/187027253-6c796787-fc19-4b7b-8c75-e5ff1f319df7.png" alt="CotEditor" width="128"/>](https://apps.apple.com/jp/app/macarbon/id1616507141?l=en&mt=12)|Coding image creation tool.|[English](https://github.com/pommdau/macarbon.github.io/blob/main/SupportPage/SupportPage_En.md)<br>[Japanese](https://github.com/pommdau/macarbon.github.io/blob/main/SupportPage/SupportPage_Ja.md)|
+
 
 ## [Qiita](https://qiita-badge.apiapi.app/)
 
