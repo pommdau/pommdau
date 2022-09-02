@@ -22,16 +22,6 @@
   <img src="https://zenn.badge.nikaera.com/s/ikeh1024/likes?style=plastic" alt="ikeh1024 likes" />
 </a>
 
-<!-- Followers のバッジ -->
-<a href="https://zenn.dev/ikeh1024/followers">
-  <img src="https://zenn.badge.nikaera.com/s/ikeh1024/followers?style=plastic" alt="ikeh1024 followers" />
-</a>
-
-<!-- Books のバッジ -->
-<a href="https://zenn.dev/ikeh1024/books">
-  <img src="https://zenn.badge.nikaera.com/s/ikeh1024/books?style=plastic" alt="ikeh1024 books" />
-</a>
-
 <!-- Scraps のバッジ -->
 <a href="https://zenn.dev/ikeh1024/scraps">
   <img src="https://zenn.badge.nikaera.com/s/ikeh1024/scraps?style=plastic" alt="ikeh1024 scraps" />
