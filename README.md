@@ -33,10 +33,8 @@
 ## Works
 
 <details>
-<summary> Apps </summary>
+<summary> macOS </summary>
 <br>
-
-## macOS
 
 |App|Description|Support|
 |:---:|:---|:---|
@@ -44,10 +42,15 @@
 |[<img src="https://user-images.githubusercontent.com/29433103/187027253-6c796787-fc19-4b7b-8c75-e5ff1f319df7.png" alt="app" width="128"/>](https://apps.apple.com/jp/app/macarbon/id1616507141?l=en&mt=12)|Coding image creation tool.|[English](https://github.com/pommdau/macarbon.github.io/blob/main/SupportPage/SupportPage_En.md)<br>[Japanese](https://github.com/pommdau/macarbon.github.io/blob/main/SupportPage/SupportPage_Ja.md)|
 |[<img src="https://user-images.githubusercontent.com/29433103/187028768-c62e8d53-fcf3-4632-ad61-68d29b147b00.png" alt="app" width="100"/>](https://apps.apple.com/jp/app/tweetcomment/id1501346000?l=en&mt=12)|Show tweet like video comments.|[English](https://pommdau.github.io/SupportPages/TweetComment/support_page/support_en.html)<br>[Japanese](https://pommdau.github.io/SupportPages/TweetComment/support_page/support_ja.html)|
 
-## iOS
+</details>
+
+<details>
+<summary> iOS </summary>
+<br>
 
 |App|Description|Support|
 |:---:|:---|:---|
-|[<img src="https://imgur.com/wHCgQWO.png" alt="app" width="100"/>](https://apps.apple.com/us/app/searchboyadvance/id1643714939)|The tool for easily configure  manage Twitter advanced searches.|[English](https://github.com/pommdau/search-boy-advance.github.io/blob/main/support-page/support-page-en.md)<br>[Japanese](https://github.com/pommdau/search-boy-advance.github.io/blob/main/support-page/support-page-ja.md)|
+|[<img src="https://imgur.com/wHCgQWO.png" alt="app" width="100"/>](https://apps.apple.com/us/app/searchboyadvance/id1643714939)|Easily configuring and managing Twitter advanced searches.|[English](https://github.com/pommdau/search-boy-advance.github.io/blob/main/support-page/support-page-en.md)<br>[Japanese](https://github.com/pommdau/search-boy-advance.github.io/blob/main/support-page/support-page-ja.md)|
+|[<img src="https://i.imgur.com/Fztaywn.png" alt="app" width="100"/>](https://apps.apple.com/us/app/aboutcompass/id1515397842)|Displaying the direction and distance at a glance.|[English](https://pommdau.github.io/SupportPages/AboutCompass/support_page/support_en.html)<br>[Japanese](https://pommdau.github.io/SupportPages/AboutCompass/support_page/support_ja.html)|
 
 </details>
