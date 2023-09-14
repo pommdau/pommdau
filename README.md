@@ -29,18 +29,18 @@
 |App|Description|Support|
 |:---:|:---|:---|
 |[<img width="128" alt="image" src="https://i.imgur.com/ESl1hqT.png">](https://apps.apple.com/en/app/en/id6458692877)|The tool that allow you to measure the distance between two points on the screen.|[English](https://github.com/pommdau/measuring-rope.github.io/blob/main/support-page/support-page-en.md)<br>[Japanese](https://github.com/pommdau/measuring-rope.github.io/blob/main/support-page/support-page-ja.md)|
-|[<img src="https://user-images.githubusercontent.com/29433103/187027951-afd817f7-59ca-4344-9149-c02233ae2118.png" alt="app" width="128"/>](https://apps.apple.com/jp/app/quickimageuploader/id1609831553)|Easily uploading images tool to a hosting service.|[English](https://github.com/pommdau/quick-image-uploader.github.io/blob/main/SupportPage/SupportPage_En.md)<br>[Japanese](https://github.com/pommdau/quick-image-uploader.github.io/blob/main/SupportPage/SupportPage_Ja.md)|
-|[<img src="https://user-images.githubusercontent.com/29433103/187027253-6c796787-fc19-4b7b-8c75-e5ff1f319df7.png" alt="app" width="128"/>](https://apps.apple.com/jp/app/macarbon/id1616507141?l=en&mt=12)|Coding image creation tool.|[English](https://github.com/pommdau/macarbon.github.io/blob/main/SupportPage/SupportPage_En.md)<br>[Japanese](https://github.com/pommdau/macarbon.github.io/blob/main/SupportPage/SupportPage_Ja.md)|
-|[<img src="https://user-images.githubusercontent.com/29433103/187028768-c62e8d53-fcf3-4632-ad61-68d29b147b00.png" alt="app" width="100"/>](https://apps.apple.com/jp/app/tweetcomment/id1501346000?l=en&mt=12)|Show tweet like video comments.|[English](https://pommdau.github.io/SupportPages/TweetComment/support_page/support_en.html)<br>[Japanese](https://pommdau.github.io/SupportPages/TweetComment/support_page/support_ja.html)|
+|[<img src="https://user-images.githubusercontent.com/29433103/187027951-afd817f7-59ca-4344-9149-c02233ae2118.png" alt="app" width="128"/>](https://apps.apple.com/jp/app/quickimageuploader/id1609831553)|Imgurへの画像アップロードを便利にするツール|[English](https://github.com/pommdau/quick-image-uploader.github.io/blob/main/SupportPage/SupportPage_En.md)<br>[Japanese](https://github.com/pommdau/quick-image-uploader.github.io/blob/main/SupportPage/SupportPage_Ja.md)|
+|[<img src="https://user-images.githubusercontent.com/29433103/187027253-6c796787-fc19-4b7b-8c75-e5ff1f319df7.png" alt="app" width="128"/>](https://apps.apple.com/jp/app/macarbon/id1616507141?l=en&mt=12)|プログラムのコードを画像として出力するためのツール|[English](https://github.com/pommdau/macarbon.github.io/blob/main/SupportPage/SupportPage_En.md)<br>[Japanese](https://github.com/pommdau/macarbon.github.io/blob/main/SupportPage/SupportPage_Ja.md)|
+|[<img src="https://user-images.githubusercontent.com/29433103/187028768-c62e8d53-fcf3-4632-ad61-68d29b147b00.png" alt="app" width="100"/>](https://apps.apple.com/jp/app/tweetcomment/id1501346000?l=en&mt=12)|Twitterの投稿をニコニコ動画のコメント風に表示するmacOSアプリ|[English](https://pommdau.github.io/SupportPages/TweetComment/support_page/support_en.html)<br>[Japanese](https://pommdau.github.io/SupportPages/TweetComment/support_page/support_ja.html)|
 
 #### Experimental
-|App|Description|Support|
-|:---:|:---|:---|
-|<img width="128" alt="Icon" src="https://github.com/pommdau/color-catalog/assets/29433103/332d26fa-5c35-4ec3-b1b2-0423abfc8a3b">|定義済みNSColorをプレビューするためのmacOSアプリ|[GitHub](https://github.com/pommdau/color-catalog)|
+|App|Description|
+|:---:|:---|
+|[<img width="128" alt="Icon" src="https://github.com/pommdau/color-catalog/assets/29433103/332d26fa-5c35-4ec3-b1b2-0423abfc8a3b">](https://github.com/pommdau/color-catalog)|定義済みNSColorをプレビューするためのmacOSアプリ|
 
 ### iOS/iPadOS apps
 
 |App|Description|Support|
 |:---:|:---|:---|
-|[<img src="https://imgur.com/wHCgQWO.png" alt="app" width="100"/>](https://apps.apple.com/us/app/searchboyadvance/id1643714939)|Easily configuring and managing Twitter advanced searches.|[English](https://github.com/pommdau/search-boy-advance.github.io/blob/main/support-page/support-page-en.md)<br>[Japanese](https://github.com/pommdau/search-boy-advance.github.io/blob/main/support-page/support-page-ja.md)|
-|[<img src="https://i.imgur.com/Fztaywn.png" alt="app" width="100"/>](https://apps.apple.com/us/app/aboutcompass/id1515397842)|Displaying the direction and distance at a glance.|[English](https://pommdau.github.io/SupportPages/AboutCompass/support_page/support_en.html)<br>[Japanese](https://pommdau.github.io/SupportPages/AboutCompass/support_page/support_ja.html)|
+|[<img src="https://imgur.com/wHCgQWO.png" alt="app" width="100"/>](https://apps.apple.com/us/app/searchboyadvance/id1643714939)|Twitterの詳細検索の設定・URLを管理するiOSアプリ|[English](https://github.com/pommdau/search-boy-advance.github.io/blob/main/support-page/support-page-en.md)<br>[Japanese](https://github.com/pommdau/search-boy-advance.github.io/blob/main/support-page/support-page-ja.md)|
+|[<img src="https://i.imgur.com/Fztaywn.png" alt="app" width="100"/>](https://apps.apple.com/us/app/aboutcompass/id1515397842)|目的地までの方角と距離を表示するコンパス風iOSアプリ|[English](https://pommdau.github.io/SupportPages/AboutCompass/support_page/support_en.html)<br>[Japanese](https://pommdau.github.io/SupportPages/AboutCompass/support_page/support_ja.html)|
