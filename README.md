@@ -36,7 +36,7 @@
 #### Experimental
 |App|Description|
 |:---:|:---|
-|[<img width="128" alt="Icon" src="https://github.com/pommdau/color-catalog/assets/29433103/332d26fa-5c35-4ec3-b1b2-0423abfc8a3b">](https://github.com/pommdau/color-catalog)|定義済みNSColorをプレビューするためのmacOSアプリ|
+|[<img src="https://i.imgur.com/9DIBKSc.png" alt="app" width="128"/>](https://github.com/pommdau/color-catalog)|定義済みNSColorをプレビューするためのmacOSアプリ|
 
 ### iOS/iPadOS apps
 
