@@ -31,12 +31,17 @@
 |[<img width="128" alt="image" src="https://i.imgur.com/ESl1hqT.png">](https://apps.apple.com/jp/app/measuringrope/id6458692877)|スクリーン上の2点間の距離を測るツール|[English](https://github.com/pommdau/measuring-rope.github.io/blob/main/support-page/support-page-en.md)<br>[Japanese](https://github.com/pommdau/measuring-rope.github.io/blob/main/support-page/support-page-ja.md)|
 |[<img src="https://user-images.githubusercontent.com/29433103/187027951-afd817f7-59ca-4344-9149-c02233ae2118.png" alt="app" width="128"/>](https://apps.apple.com/jp/app/quickimageuploader/id1609831553)|画像を手軽にホスティングサービス(Imgur)へアップロードするためのツール|[English](https://github.com/pommdau/quick-image-uploader.github.io/blob/main/SupportPage/SupportPage_En.md)<br>[Japanese](https://github.com/pommdau/quick-image-uploader.github.io/blob/main/SupportPage/SupportPage_Ja.md)|
 |[<img src="https://user-images.githubusercontent.com/29433103/187027253-6c796787-fc19-4b7b-8c75-e5ff1f319df7.png" alt="app" width="128"/>](https://apps.apple.com/jp/app/macarbon/id1616507141)|プログラムのコードを画像として出力するためのツール|[English](https://github.com/pommdau/macarbon.github.io/blob/main/SupportPage/SupportPage_En.md)<br>[Japanese](https://github.com/pommdau/macarbon.github.io/blob/main/SupportPage/SupportPage_Ja.md)|
-|[<img src="https://user-images.githubusercontent.com/29433103/187028768-c62e8d53-fcf3-4632-ad61-68d29b147b00.png" alt="app" width="100"/>](https://apps.apple.com/jp/app/tweetcomment/id1501346000)|ツイッターの検索結果を、ニコニコ動画の様なコメント形式で表示するアプリ|[English](https://pommdau.github.io/SupportPages/TweetComment/support_page/support_en.html)<br>[Japanese](https://pommdau.github.io/SupportPages/TweetComment/support_page/support_ja.html)|
 
 #### Experimental
 |App|Description|
 |:---:|:---|
 |[<img src="https://i.imgur.com/9DIBKSc.png" alt="app" width="128"/>](https://github.com/pommdau/color-catalog)|定義済みNSColorをプレビューするためのmacOSアプリ|
+
+#### Archived
+
+|App|Description|Support|
+|:---:|:---|:---|
+|<img src="https://user-images.githubusercontent.com/29433103/187028768-c62e8d53-fcf3-4632-ad61-68d29b147b00.png" alt="app" width="100"/>|ツイッターの検索結果を、ニコニコ動画の様なコメント形式で表示するアプリ<br>※TwitterAPIの変更により公開終了|[English](https://pommdau.github.io/SupportPages/TweetComment/support_page/support_en.html)<br>[Japanese](https://pommdau.github.io/SupportPages/TweetComment/support_page/support_ja.html)|
 
 ### iOS/iPadOS apps
 
