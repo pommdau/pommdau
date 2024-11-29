@@ -26,9 +26,9 @@
 
 ### macOS Apps
 
-|アプリ名|説明|サポートページ|
+|アプリ|説明|サポートページ|
 |:---:|:---|:---|
-|[<img width="128" alt="image" src="https://i.imgur.com/8Nm4VuN.png">](https://apps.apple.com/jp/app/peelable-sticky/id6474899631?mt=12)|はがせる付箋メモ|[English](https://github.com/pommdau/peelable-sticky.github.io/blob/46aa8230ddc42d764898d26615325fd4becb746b/support-page/support-page-en.md)<br>[Japanese](https://github.com/pommdau/peelable-sticky.github.io/blob/46aa8230ddc42d764898d26615325fd4becb746b/support-page/support-page-ja.md)|
+|[<img width="128" alt="image" src="https://i.imgur.com/8Nm4VuN.png">](https://apps.apple.com/jp/app/peelable-sticky/id6474899631?mt=12)|付箋の形をした簡単なメモアプリ<br>ウインドウをめくって剥がすことができます|[English](https://github.com/pommdau/peelable-sticky.github.io/blob/46aa8230ddc42d764898d26615325fd4becb746b/support-page/support-page-en.md)<br>[Japanese](https://github.com/pommdau/peelable-sticky.github.io/blob/46aa8230ddc42d764898d26615325fd4becb746b/support-page/support-page-ja.md)|
 |[<img width="128" alt="image" src="https://i.imgur.com/ESl1hqT.png">](https://apps.apple.com/jp/app/measuringrope/id6458692877)|スクリーン上の2点間の距離を測るツール|[English](https://github.com/pommdau/measuring-rope.github.io/blob/main/support-page/support-page-en.md)<br>[Japanese](https://github.com/pommdau/measuring-rope.github.io/blob/main/support-page/support-page-ja.md)|
 |[<img src="https://user-images.githubusercontent.com/29433103/187027951-afd817f7-59ca-4344-9149-c02233ae2118.png" alt="app" width="128"/>](https://apps.apple.com/jp/app/quickimageuploader/id1609831553)|画像を手軽にホスティングサービス(Imgur)へアップロードするためのツール|[English](https://github.com/pommdau/quick-image-uploader.github.io/blob/main/SupportPage/SupportPage_En.md)<br>[Japanese](https://github.com/pommdau/quick-image-uploader.github.io/blob/main/SupportPage/SupportPage_Ja.md)|
 |[<img src="https://user-images.githubusercontent.com/29433103/187027253-6c796787-fc19-4b7b-8c75-e5ff1f319df7.png" alt="app" width="128"/>](https://apps.apple.com/jp/app/macarbon/id1616507141)|プログラムのコードを画像として出力するためのツール|[English](https://github.com/pommdau/macarbon.github.io/blob/main/SupportPage/SupportPage_En.md)<br>[Japanese](https://github.com/pommdau/macarbon.github.io/blob/main/SupportPage/SupportPage_Ja.md)|
