@@ -12,11 +12,11 @@
 |---|---|
 |[Qiita](https://qiita.com/IKEH) |[![Contributions](https://badgen.org/img/qiita/ikeh/contributions?style=plastic)](https://qiita.com/ikeh) [![Followers](https://badgen.org/img/qiita/ikeh/followers?style=plastic)](https://qiita.com/ikeh) [![Articles](https://badgen.org/img/qiita/ikeh/articles?style=plastic)](https://qiita.com/ikeh)|
 |[Zenn](https://zenn.dev/ikeh1024)|[![Articles](https://badgen.org/img/zenn/ikeh1024/articles?style=plastic)](https://zenn.dev/ikeh1024) [![Likes](https://badgen.org/img/zenn/ikeh1024/likes?style=plastic)](https://zenn.dev/ikeh1024)|
-|[Twitter](https://twitter.com/ikeh1024)||
+|[X](https://twitter.com/ikeh1024)||
 
 ## Works
 
-### Tweetのまとめ
+### Xのまとめ
 
 - [作成したものリスト](https://min.togetter.com/uoMdfjp)
 
